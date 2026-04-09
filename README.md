@@ -1,8 +1,9 @@
-<img src="shark_travel_advisory_logo.svg" alt="SafeWaters Travel Advisory Bureau" width="200" align="left" style="margin-right: 16px;"/>
-
-# Shark Attack Analysis
-
-<br clear="left"/>
+<table>
+<tr>
+<td><img src="shark_travel_advisory_logo.svg" alt="SafeWaters Travel Advisory Bureau" width="180"/></td>
+<td><h1>Shark Attack Analysis</h1></td>
+</tr>
+</table>
 
 An exploratory data analysis of global shark attack incidents using the **Global Shark Attack File (GSAF)** dataset.
 
