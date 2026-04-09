@@ -125,7 +125,7 @@ shark-attack-analysis/
 │
 ├── data/
 │   ├── raw_data_GSAF5.xls              # Raw dataset (not modified)
-│   └── shark_data_clean.pkl            # Cleaned dataset
+│   └── shark_data_clean.pkl            # Cleaned and wrangled dataset
 │
 ├── Plots/                              # Exported visualisations
 │   ├── activity_bar.png
@@ -138,7 +138,7 @@ shark-attack-analysis/
 │
 ├── shark_data_cleaning.ipynb           # Data wrangling and cleaning
 ├── shark_data_analysis.ipynb           # Exploratory data analysis
-├── shark_attack_analysis.pptx          # Final presentation [placeholder]
+├── ssafewaters_presentation.pdf        # Final presentation
 ├── shark_travel_advisory_logo.svg      # Project logo
 │
 └── README.md
