@@ -2,9 +2,9 @@
 
 # Shark Attack Analysis
 
-An exploratory data analysis of global shark attack incidents using the **Global Shark Attack File (GSAF)** dataset.
-
 <br clear="left"/>
+
+An exploratory data analysis of global shark attack incidents using the **Global Shark Attack File (GSAF)** dataset.
 
 ---
 
@@ -124,7 +124,7 @@ shark-attack-analysis/
 │
 ├── data/
 │   ├── raw_data_GSAF5.xls              # Raw dataset (not modified)
-│   └── shark_data_clean.pkl            # Cleaned and wrangled dataset
+│   └── shark_data_clean.pkl            # Cleaned dataset
 │
 ├── Plots/                              # Exported visualisations
 │   ├── activity_bar.png
