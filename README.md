@@ -1,4 +1,4 @@
-<img src="shark_travel_advisory_logo.svg" alt="SafeWaters Travel Advisory Bureau" width="80" align="left" style="margin-right: 16px;"/>
+<img src="shark_travel_advisory_logo.svg" alt="SafeWaters Travel Advisory Bureau" width="200" align="left" style="margin-right: 16px;"/>
 
 # Shark Attack Analysis
 
