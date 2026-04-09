@@ -86,7 +86,7 @@ This project was developed collaboratively as part of the IronHack Data Analytic
 - **`season`**: derived from `month` and `hemisphere`, accounting for seasonal differences between hemispheres
 
 ### Activity Column
-The `activity` column contained 600+ unique values including detailed narrative descriptions of historical incidents. Since the analysis focuses on the top activities only, no further standardisation was performed. The column was converted to string type to ensure compatibility for analysis.
+The `activity` column contained 600+ unique values including detailed narrative descriptions of historical incidents. Since the analysis focuses on the top activities only, no further standardisation was performed. The column was converted to string type and stripped to ensure compatibility for analysis.
 
 ---
 
@@ -138,7 +138,7 @@ shark-attack-analysis/
 │
 ├── shark_data_cleaning.ipynb           # Data wrangling and cleaning
 ├── shark_data_analysis.ipynb           # Exploratory data analysis
-├── ssafewaters_presentation.pdf        # Final presentation
+├── safewaters_presentation.pdf         # Final presentation
 ├── shark_travel_advisory_logo.svg      # Project logo
 │
 └── README.md
